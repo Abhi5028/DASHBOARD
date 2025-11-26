@@ -9,6 +9,7 @@ Overview
 Files recommended
 - blinkit_dashboard.md — this project scaffold and next steps.
 - data/BlinkIT Grocery Data cc (1).xlsx — placeholder dataset file. Replace with the real dataset XLSX file when available.
+<img width="3552" height="1984" alt="Screenshot 2025-11-26 133152 (1)" src="https://github.com/user-attachments/assets/df5993c0-b62b-4728-8397-5cb8a477947e" />
 
 Goals
 - Prepare and clean the BlinkIT grocery dataset.
